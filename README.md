@@ -5,8 +5,3 @@ Only IDs can be passed. Both folders and files are passed by ID. Browse-type Goo
 ```shell
 go test ./test/...
 ```
-
-
-
-
-
