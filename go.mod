@@ -1,4 +1,4 @@
-module gdown-go
+module github.com/striiike/gdown-go
 
 go 1.23.0
 
