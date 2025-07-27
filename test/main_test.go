@@ -3,7 +3,7 @@ package test
 import (
 	"testing"
 
-	"gdown-go/pkg/downloader"
+	"github.com/striiike/gdown-go/pkg/downloader"
 )
 
 func TestFolder(t *testing.T) {
